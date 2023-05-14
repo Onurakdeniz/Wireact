@@ -20,7 +20,9 @@ Leverage built-in templates that adhere to best React practices, ensuring your c
 
 Our component organizer helps you categorize and manage your components, making your projects more navigable and boosting productivity.
 
-##Live Preview: View your hand-drawn components in real-time with our live preview feature, enabling quick iterations and immediate feedback.
+## Live Preview: 
+
+View your hand-drawn components in real-time with our live preview feature, enabling quick iterations and immediate feedback.
 
 ## Integrated Code Editor: 
 
